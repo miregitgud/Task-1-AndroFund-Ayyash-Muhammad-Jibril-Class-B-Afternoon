@@ -31,7 +31,7 @@
         android:layout_alignParentRight="true"
         android:layout_marginBottom="50dp"
         android:layout_marginEnd="30dp"
-        android:text="Warna hijau"
+        android:text="Warna putih"
         />
 
     <TextView
